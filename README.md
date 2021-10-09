@@ -1,4 +1,5 @@
-# Library (contains 4 books at most):
+# Library:
+This is a library which can contain 4 books at most. There are 4 possible actions as described later in this file. The user need to choose the action desired and fill the fields of book's name and author if necessary.
 The following actions are available:
 
 
